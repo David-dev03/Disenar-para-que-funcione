@@ -6,9 +6,8 @@
 ---
 
 ## 🔗 Enlaces a los Entregables
-* **Tablero de Investigación, Personas, MVP, User Flow y Sitemap (FigJam):** [PEGAR_ENLACE_PÚBLICO_FIGJAM_AQUÍ]
-* **Wireframes (Desktop & Mobile) y Prototipo Navegable (Figma):** [PEGAR_ENLACE_PÚBLICO_FIGMA_AQUÍ]
-* **Prototipo Interactivo (Vista directa de reproducción):** [PEGAR_ENLACE_PLAY_PROTOTYPE_AQUÍ]
+* **Tablero de Investigación, Personas, MVP, User Flow y Sitemap (FigJam):** [[PEGAR_ENLACE_PÚBLICO_FIGJAM_AQUÍ]](https://www.figma.com/board/wvrk5l254OY9a8sYxcbw3d/Idea-app?t=vR2H2PAsLDFZWu5Z-1)
+* **Wireframes (Desktop & Mobile) y Prototipo Navegable (Figma):** [[PEGAR_ENLACE_PÚBLICO_FIGMA_AQUÍ]](https://www.figma.com/design/XzMeFn16ll7OgHR8nLjnHi/Plantilla-para-iniciar-proyectos--Community-?node-id=4-0&p=f&t=DpfwAVVKRAi7UZI2-0)
 
 ---
 
